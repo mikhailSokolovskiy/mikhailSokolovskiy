@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikhailSokolovskiy
 - 👀 I’m interested in C#, Avalonia, MVVM
-- 🌱 I’m currently learning in URFU, C# mmvm
+- 🌱 I’m currently learning in URFU, C# mvvm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mikhail.sokolovskiy.2002@mail.ru
 - 😄 Pronouns: ...
