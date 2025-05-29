@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/mikhailSokolovskiy">Mikhail</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">NOT A VIBE CODER</h3>
+<h1 align="center">NOT A VIBE CODER <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Face with Spiral Eyes" width="25" height="25" /></h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailSokolovskiy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /> 
 
