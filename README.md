@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/mikhailSokolovskiy">Mikhail</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer from Russia</h3>
+<h3 align="center">NOT A VIBE CODER</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailSokolovskiy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /> 
 
