@@ -1,4 +1,4 @@
-<h1 align="center">NOT A VIBE CODER <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Face with Spiral Eyes" width="25" height="25" /></h1>
+<h1 align="center">ALMOST NOT A VIBE CODER <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Face with Spiral Eyes" width="25" height="25" /></h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhailSokolovskiy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /> 
 
